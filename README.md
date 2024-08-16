@@ -1,4 +1,4 @@
-# weather_station_stm32
+# STM32 based weather station
 
 For the Arm Mbed Enabled NUCLEO-L031K6 Board, the target STM32 is STM32L031K6T6
 
