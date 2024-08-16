@@ -56,8 +56,8 @@ pio run --target upload
 |  | 10 | A2 | PA3 | ADC_IN3 |
 |  | 11 | A1 | PA1 | ADC_IN1 |
 |  | 12 | A0 | PA0 | ADC_IN0 |
-|  | 13 | AREF | - | Row 13 Col 5 |
-|  | 14 | +3V3 | - | Row 14 Col 5 |
+|  | 13 | AREF | - | AVDD |
+|  | 14 | +3V3 | - | 3V input / output |
 |  | 15 | D13 | PB3 | SPI1_SCK |
 |  |  |  |  |  |
 
