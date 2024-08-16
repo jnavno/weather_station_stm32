@@ -1,2 +1,0 @@
-This is a test commit
-and a vs code test commit
